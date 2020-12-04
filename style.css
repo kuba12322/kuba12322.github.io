@@ -1,0 +1,13 @@
+body
+{
+    background: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+#ytButton
+{
+    margin: auto;
+    padding: 15px;
+    background: red;
+}
