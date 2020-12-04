@@ -7,7 +7,7 @@ body
 
 #ytButton
 {
-    margin: auto;
+    text-align: center;
     padding: 15px;
     background: red;
 }
